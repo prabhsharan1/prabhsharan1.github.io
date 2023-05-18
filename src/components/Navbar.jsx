@@ -42,7 +42,7 @@ const Navbar = () => {
             window.scrollTo(0, 0);
           }}
         >
-          <img src="https://thumbs.gfycat.com/UnripeAdoredGrayreefshark-max-1mb.gif" alt='logo' className='w-9 h-9 object-contain' />
+          <img src="https://www.smatbot.com/blog/wp-content/uploads/2018/02/Hi-Animation-without-background-.gif" alt='logo' className='w-9 h-9 object-contain' />
           <p className='text-white text-[18px] font-bold cursor-pointer flex '>
             Prabhsharan &nbsp;
             <span className='sm:block hidden'> | Software Developer</span>
