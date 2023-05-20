@@ -210,25 +210,25 @@ const testimonials = [
 ];
 
 const projects = [
-   {
-    name: "Image Processing Fundamentals-Toyota-Innovation-Challenge-2023",
+ {
+    name: "Pharmacy Management System",
     description:
-      "Explored essential techniques and algorithms in digital image processing to manipulate, enhance, and analyze images",
+      "Allows to store Medicines data along different category as well as discounts in an easy and efficent way",
     tags: [
       {
-        name: "Python",
+        name: "python",
         color: "blue-text-gradient",
       },
       {
-        name: "Computer Vision",
+        name: "Tkinter library",
         color: "green-text-gradient",
       },  {
-        name: "Deep Learning",
+        name: "IDLE",
         color: "pink-text-gradient",
       },
     
     ],
-    image: "https://github.com/prabhsharan1/Toyota-Innovation-Challenge-ImageProcessingFundamentals/assets/122405126/a105fea6-4b9d-4df8-8332-b4c2793eaec4",
+    image: "https://user-images.githubusercontent.com/122405126/212968225-e6ca676b-a6a2-441e-b953-bd3c8fb611cb.png",
     source_code_link: "https://github.com/prabhsharan1/Medical-Pharmacy-App",
   },
   {
