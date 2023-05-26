@@ -275,7 +275,7 @@ const projects = [
         color: "orange-text-gradient",
       },
     ],
-    image: "https://media.licdn.com/dms/image/C4E2DAQGmRocXVQLnaQ/profile-treasury-image-shrink_800_800/0/1678403317546?e=1684933200&v=beta&t=W391JKU0_GEawhOznK0ygLVLNzymvLMX6mKcAhdSPjs",
+    image: "https://sportshub.cbsistatic.com/i/2021/11/14/45b1bc0b-04e7-4347-854e-329f7c2c0985/demon-slayer-season-2-tanjiro-hinokami-kagura.jpg",
     source_code_link: "https://prabhsharansinghsethi.w3spaces.com/",
   },
 ];
