@@ -275,7 +275,7 @@ const projects = [
         color: "orange-text-gradient",
       },
     ],
-    image: "https://sportshub.cbsistatic.com/i/2021/11/14/45b1bc0b-04e7-4347-854e-329f7c2c0985/demon-slayer-season-2-tanjiro-hinokami-kagura.jpg",
+    image: "https://github.com/prabhsharan1/Toyota-Innovation-Challenge-ImageProcessingFundamentals/assets/122405126/cab83c9c-3039-4a76-92b4-30dd993c3426",
     source_code_link: "https://prabhsharansinghsethi.w3spaces.com/",
   },
 ];
