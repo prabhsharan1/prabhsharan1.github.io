@@ -275,7 +275,7 @@ const projects = [
         color: "orange-text-gradient",
       },
     ],
-    image: "https://github.com/prabhsharan1/Toyota-Innovation-Challenge-ImageProcessingFundamentals/assets/122405126/cab83c9c-3039-4a76-92b4-30dd993c3426",
+    image: "https://media.licdn.com/dms/image/C4E2DAQGmRocXVQLnaQ/profile-treasury-image-shrink_800_800/0/1678403317546?e=1684933200&v=beta&t=W391JKU0_GEawhOznK0ygLVLNzymvLMX6mKcAhdSPjs",
     source_code_link: "https://prabhsharansinghsethi.w3spaces.com/",
   },
 ];
